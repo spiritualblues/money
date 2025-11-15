@@ -1,9 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: spiritual blues
+tagline: spi.blue/notes
+url: https://spi.blue
 paginate: 1
-baseurl: ""
+baseurl: "/notes"
 permalink: pretty
 
 # Gems
