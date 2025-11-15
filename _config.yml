@@ -1,10 +1,10 @@
 # Setup
 title: spiritual blues
-tagline: spi.blue/notes
+tagline: notes
 url: https://spi.blue
-paginate: 5
+paginate: 15
 baseurl: "/notes"
-permalink: pretty
+permalink: /:title/
 
 # Gems
 plugins:
