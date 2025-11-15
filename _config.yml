@@ -1,6 +1,6 @@
 # Setup
-title: spiritual
-tagline: blues
+title: spiritual blues
+#tagline: blues
 url: https://spi.blue
 paginate: 15
 baseurl: "/notes"
