@@ -3,7 +3,7 @@ layout: post
 title: "Why Most People Should Stick With Index Funds"
 ---
 
-# And Why Long-Term Boring Wealth Still Wins*
+*And Why Long-Term Boring Wealth Still Wins*
 
 Investing gets strangely clearer the more you learn. There’s a whole universe of flashy strategies, loud pundits, and tempting stock tips — yet almost every road leads back to something simple: low-cost, broad-market index funds. This article focuses on the U.S. market, partly because that’s where most of the long-term research is strongest.
 
