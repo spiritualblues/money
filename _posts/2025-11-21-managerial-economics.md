@@ -20,5 +20,3 @@ We also tackled the sharp edges of information economics. Adverse selection occu
 And finally, I found it amusing — and humbling — that many well-intentioned government policies, when viewed through the economist’s lens, can end up being “wealth-destroying transactions.” Economics doesn’t mince words; it just follows incentives to their logical ends.
 
 This course didn’t just teach me abstract models; it reframed how I interpret the world. Every purchase, policy, and production decision now feels like a live experiment in rational choice — where psychology, math, and human behavior collide. The invisible hand, it turns out, isn’t just guiding markets; it’s constantly nudging our everyday decisions too.
-
-![]([https://images.unsplash.com/photo-1649592225856-9d001923fdba?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D))
