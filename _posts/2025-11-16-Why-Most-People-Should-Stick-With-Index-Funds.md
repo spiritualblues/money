@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why Most People Should Stick With Index Funds"
+canonical_url: "https://bansode.com/blog/passive-index-funds"
+
 ---
 
 *And Why Long-Term Boring Wealth Still Wins*
