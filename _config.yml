@@ -1,8 +1,8 @@
 # Setup
-title: spiritual blues'
+title: spiritual blues
 tagline: money blog
 url: https://spi.blue
-paginate: 15
+paginate: 1
 baseurl: "/money"
 permalink: /:title/
 
