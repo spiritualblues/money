@@ -2,9 +2,7 @@
 layout: post
 title: "Managerial Economics"
 canonical_url: "https://bansode.com/blog/managerial-economics"
-
 ---
-
 I recently completed Managerial Economics as one of the core courses in my MBA program. The last time I studied economics formally was back in high school — and, truth be told, it was an afterthought. We had a thin, rather dry booklet with minimal instruction, and none of us were particularly inspired by it. Fast-forward to today: after finishing this course, I feel I finally understand the logic behind many everyday money decisions that once seemed intuitive but unexamined.
 
 One concept that truly clicked for me was the principle of producing until marginal revenue equals marginal cost. The idea is beautifully simple: as long as the revenue from producing one more unit exceeds its cost, keep going. But once marginal cost rises to meet marginal revenue, stop. Producing beyond that point starts eroding your overall profitability. You’re still earning profit, just less for each additional unit — and that’s the point where restraint becomes rational.
