@@ -40,15 +40,4 @@ author:
 
 # Custom vars
 version: 3.0.0
-defaults:
-  - scope:
-      path: ""  # empty string means apply to all files sitewide
-      type: "pages"
-    values:
-      classes: wide
-  - scope:
-      path: "" 
-      type: "posts"
-    values:
-      classes: wide
 
